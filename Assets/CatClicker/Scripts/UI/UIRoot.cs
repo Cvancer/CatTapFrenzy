@@ -1,6 +1,4 @@
-using UnityEditor.ShaderGraph.Drawing;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class UIRoot : MonoBehaviour
 {
